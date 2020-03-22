@@ -175,7 +175,7 @@ void *proc(void *fd)
 				}
 				else
 				{
-				cout<<"please give the proper transaction details 				and try again "<<endl;
+				cout<<"please give the proper transaction details and try again "<<endl;
 				}
 			flag=1;
 			
